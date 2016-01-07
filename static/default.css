@@ -1,0 +1,32 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12pt;
+}
+
+
+td {
+	padding: 20px;
+	padding-top: 0px;
+	margin: 20px;
+	text-align: center;
+}
+
+#section {
+}
+
+.featured img:hover {
+	opacity: 0.5;
+}
+
+a {
+	color: #4c4b49;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #fcb698;
+}
