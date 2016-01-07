@@ -18,8 +18,12 @@ td {
 #section {
 }
 
-.featured img:hover {
+.featured img {
 	opacity: 0.5;
+}
+
+.featured img:hover {
+	opacity: 1;
 }
 
 a {
